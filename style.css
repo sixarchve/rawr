@@ -15,14 +15,14 @@ body{
     cursor: crosshair;
 }
 
-.didel a {
+a{
     color: #fefffe;
 }
 
-.didel a:hover{
+a:hover{
     color: #335bfd;
 }
 
-.didel a:visited{
+a:visited{
     color: #fefefe;
 }
