@@ -17,10 +17,12 @@ body{
 
 a{
     color: #fefffe;
+    text-decoration: none;
 }
 
 a:hover{
     color: #335bfd;
+    
 }
 
 a:visited{
