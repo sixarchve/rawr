@@ -6,4 +6,23 @@ body{
 
 .didel{
     text-align: center;
+    margin: 10px;
+}
+
+.didel h2{
+    font-family: Montserrat;
+    font-weight: normal;
+    cursor: crosshair;
+}
+
+.didel a {
+    color: #fefffe;
+}
+
+.didel a:hover{
+    color: #335bfd;
+}
+
+.didel a:visited{
+    color: #fefefe;
 }
